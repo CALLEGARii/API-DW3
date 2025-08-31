@@ -35,12 +35,3 @@ EJS
 
 Bootstrap
 ---------------------------------------------------------------------------------------
-📂 Estrutura do Projeto
-projeto/
-├── config/              # Configuração do banco de dados
-├── controllers/         # Lógica de negócio da API
-├── models/              # Modelos de dados do Sequelize
-├── routes/              # Rotas da API
-├── views/               # Páginas EJS
-├── package.json         # Dependências e scripts
-└── server.js            # Arquivo principal do servidor
