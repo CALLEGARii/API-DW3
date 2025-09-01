@@ -1,10 +1,6 @@
 📚 Projeto Salas de Aula
 Este é um projeto simples, desenvolvido com Node.js, Express e Sequelize, para gerenciar salas de aula. Ele utiliza o EJS como motor de template e Bootstrap para estilização.
 
-🚀 Como Usar
-Pré-requisitos
-Certifique-se de ter Node.js e MySQL instalados.
-
 1. Configurar o Banco de Dados
 Crie um banco de dados chamado escola_db no seu MySQL.
 
