@@ -13,12 +13,14 @@ Observação: As credenciais de acesso padrão no config/db.js são root sem sen
 2. Instalar as Dependências
 Abra o terminal na pasta do projeto e execute:
 
-npm install
+  npm install
+
 ----------------------------------------------------------------------------------------------------
 3. Iniciar o Servidor
 Execute o comando:
 
-npm run dev
+  npm run dev
+
 O servidor será iniciado em http://localhost:3000.
 ---------------------------------------------------------------------------------------------------
 4. Acessar a Aplicação
