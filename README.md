@@ -10,13 +10,13 @@ Crie um banco de dados chamado escola_db no seu MySQL.
 
 Observação: As credenciais de acesso padrão no config/db.js são root sem senha. Altere se necessário.
 -----------------------------------------------------------------------------------------------------
-2. Instalar as Dependências
+2. Para instalar as Dependências
 Abra o terminal na pasta do projeto e execute:
 
   npm install
 
 ----------------------------------------------------------------------------------------------------
-3. Iniciar o Servidor
+3. Para iniciar o Servidor
 Execute o comando:
 
   npm run dev
