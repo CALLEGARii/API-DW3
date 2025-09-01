@@ -25,15 +25,4 @@ O servidor será iniciado em http://localhost:3000.
 ---------------------------------------------------------------------------------------------------
 4. Acessar a Aplicação
 Acesse a URL http://localhost:3000/salas no seu navegador para ver a lista de salas.
-
-🛠️ Tecnologias
-Node.js
-
-Express
-
-Sequelize
-
-EJS
-
-Bootstrap
 ---------------------------------------------------------------------------------------
